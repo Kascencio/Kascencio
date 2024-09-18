@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Eduardo</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on [MerTec](https://github.com/Kascencio/merctec/)
+- 🔭 I’m currently working on [TechCode](https://github.com/Kascencio/TechCode/)
 
 - 🌱 I’m currently learning **Exercism, AluraLatam, and Estudent**
 
