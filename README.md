@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="30" alt="adobepremierepro logo"  />
 </div>
-<img align="right" height="206" src="https://media.giphy.com/media/h4WJviYMotCwQkC33D/giphy.gif?cid=ecf05e47ecjhlnz759yndfzoyb3zp3zhlp5257wda5mqscav&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 ### ✍Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
