@@ -64,7 +64,7 @@
 ### 🐱My Github stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kascencio&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://github.com/kascencio/kascencio/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
